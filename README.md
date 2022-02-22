@@ -1,1 +1,1 @@
-# Empty ART Project
+# "Empty" ART Project
